@@ -1,0 +1,10 @@
+//descargar
+git init
+//iniciar
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+git config --global -e // chekear
+
+git add . (Va a pasar todos los archivos al area de ensayo)
+
+con git status (veo el estado los archivos)
